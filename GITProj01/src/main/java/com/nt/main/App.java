@@ -12,6 +12,7 @@ public class App {
     	
 
     	System.out.println("sum result22 is:"+app.sum(10, 20));
-    	System.out.println("sum amount33 is:"+app.sum(10, 20));
+    	System.out.println("sum amount44 is:"+app.sum(10, 20));
+    	// hello
     }
 }
